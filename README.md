@@ -1,5 +1,8 @@
 # Command
 
+## Installation 
+
+##   <img src="https://img.shields.io/badge/Service-Update%20Dulu-green">
 1. Update Dulu 
 
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
