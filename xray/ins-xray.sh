@@ -1,5 +1,5 @@
 #!/bin/bash
-# @ Copyrigt 2021 By Akbar Maulana
+# @ Copyrigt 2022 By SL
 # =====================================================
 
 # Color
@@ -342,8 +342,8 @@ END
 # / / Installation Xray Service
 cat > /etc/systemd/system/xray.service << END
 [Unit]
-Description=Xray Service By Akbar Maulana
-Documentation=https://t.me/Akbar218
+Description=Xray Service By SL
+Documentation=https://google.com
 After=network.target nss-lookup.target
 
 [Service]
@@ -460,8 +460,8 @@ END
 # Installing Trojan Go Service
 cat > /etc/systemd/system/trojan-go.service << END
 [Unit]
-Description=Trojan-Go Service By Akbar Maulana
-Documentation=https://t.me/Akbar218
+Description=Trojan-Go Service By SL
+Documentation=https://google.com
 After=network.target nss-lookup.target
 
 [Service]
